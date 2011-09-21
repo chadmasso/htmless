@@ -1,0 +1,5 @@
+1. pip install Jinja2 
+2. Place htmlessc.py on your system and textmate path.
+3. Install the htmless textmate bundle
+4. Create an htmless directory in your project and create template files with the extension .htmless.
+5. Save your files in textmate and the bundle command will output the redered html file to the parent directory (you can change the output directory in htmlessc.py). 
